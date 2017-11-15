@@ -1,2 +1,2 @@
-# CrServiceSQSMessgeTool
+# SQSMessgeTool
 Amazon SQS Message tool
